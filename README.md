@@ -4,7 +4,7 @@ This repository contains comprehensive information on Node.js, including its bas
 
 Here is a basic to advanced topic outline for learning Node.js:
 
-##Introduction to Node.js:
+## Introduction to Node.js:
 
 What is Node.js
 Why use Node.js
@@ -18,7 +18,7 @@ Creating a basic HTTP server
 Understanding modules and exports
 Understanding the file system API
 Working with streams and buffers
-##Express.js:
+## Express.js:
 
 Introduction to Express.js
 Setting up a basic Express.js server
@@ -26,14 +26,14 @@ Handling HTTP requests and responses
 Middleware in Express.js
 Routing in Express.js
 Templating with Express.js
-##Database Integration:
+## Database Integration:
 
 Introduction to databases
 Connecting to a database in Node.js
 Querying and manipulating data
 Understanding database transactions
 Using an ORM (Object Relational Mapping) library in Node.js
-##Advanced Topics:
+## Advanced Topics:
 
 Working with WebSockets
 Understanding security in Node.js
