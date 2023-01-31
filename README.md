@@ -6,46 +6,48 @@ Here is a basic to advanced topic outline for learning Node.js:
 
 ## Introduction to Node.js:
 
-What is Node.js \
-Why use Node.js \
-Installing Node.js \
-Understanding the Node.js environment \
-Basic JavaScript concepts
-##Node.js Fundamentals:
+1- What is Node.js \
+2- Why use Node.js \
+3- Installing Node.js \
+4- Understanding the Node.js environment \
+5- Basic JavaScript concepts
 
-Understanding the Node.js event loop
-Creating a basic HTTP server
-Understanding modules and exports
-Understanding the file system API
-Working with streams and buffers
+## Node.js Fundamentals:
+
+1- Understanding the Node.js event loop \
+2- Creating a basic HTTP server \
+3- Understanding modules and exports \
+4- Understanding the file system API \
+5- Working with streams and buffers
+
 ## Express.js:
 
-Introduction to Express.js
-Setting up a basic Express.js server
-Handling HTTP requests and responses
-Middleware in Express.js
-Routing in Express.js
+Introduction to Express.js \
+Setting up a basic Express.js server \
+Handling HTTP requests and responses \
+Middleware in Express.js \
+Routing in Express.js \
 Templating with Express.js
 ## Database Integration:
 
-Introduction to databases
-Connecting to a database in Node.js
-Querying and manipulating data
-Understanding database transactions
-Using an ORM (Object Relational Mapping) library in Node.js
+Introduction to databases\
+Connecting to a database in Node.js \
+Querying and manipulating data \
+Understanding database transactions \
+Using an ORM (Object Relational Mapping) library in Node.js \
 ## Advanced Topics:
 
-Working with WebSockets
-Understanding security in Node.js
-Performance optimization in Node.js
-Load balancing in Node.js
+Working with WebSockets \
+Understanding security in Node.js \
+Performance optimization in Node.js \
+Load balancing in Node.js \
 Design patterns in Node.js
 ## System Design in Node.js:
 
-Understanding system architecture
-Designing scalable Node.js systems
-Understanding microservices architecture
-Implementing a load balancer API
+Understanding system architecture\
+Designing scalable Node.js systems \
+Understanding microservices architecture \
+Implementing a load balancer API \
 Designing a robust and secure system
 
 This is a general outline for learning Node.js, and you can focus on specific topics based on your requirements.
