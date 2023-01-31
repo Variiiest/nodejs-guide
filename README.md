@@ -6,10 +6,10 @@ Here is a basic to advanced topic outline for learning Node.js:
 
 ## Introduction to Node.js:
 
-What is Node.js
-Why use Node.js
-Installing Node.js
-Understanding the Node.js environment
+What is Node.js \
+Why use Node.js \
+Installing Node.js \
+Understanding the Node.js environment \
 Basic JavaScript concepts
 ##Node.js Fundamentals:
 
