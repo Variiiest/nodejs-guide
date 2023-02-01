@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "username": "user1",
+        "message": "Hello World!"
+    },
+    {
+        "id": 2,
+        "username": "user2",
+        "message": "Hi there!"
+    },
+    {
+        "id": 3,
+        "username": "user3",
+        "message": "Good morning!"
+    },
+    {
+        "id": 4,
+        "username": "user4",
+        "message": "How are you?"
+    },
+    {
+        "id": 5,
+        "username": "user5",
+        "message": "I'm good, thanks!"
+    },
+    {
+        "id": 6,
+        "username": "user6",
+        "message": "What's up?"
+    },
+    {
+        "id": 7,
+        "username": "user7",
+        "message": "Nothing much, just chilling."
+    },
+    {
+        "id": 8,
+        "username": "user8",
+        "message": "What are you up to today?"
+    },
+    {
+        "id": 9,
+        "username": "user9",
+        "message": "Just hanging out at home."
+    },
+    {
+        "id": 10,
+        "username": "user10",
+        "message": "Sounds good to me."
+    },
+    {
+        "id": 11,
+        "username": "user11",
+        "message": "What about you?"
+    },
+    {
+        "id": 12,
+        "username": "user12",
+        "message": "Same here, just relaxing."
+    },
+    {
+        "id": 13,
+        "username": "user13",
+        "message": "Have a great day!"
+    },
+    {
+        "id": 14,
+        "username": "user14",
+        "message": "You too!"
+    },
+    {
+        "id": 15,
+        "username": "user15",
+        "message": "See you later."
+    },
+    {
+        "id": 16,
+        "username": "user16",
+        "message": "Goodbye!"
+    },
+    {
+        "id": 17,
+        "username": "user17",
+        "message": "Take care."
+    },
+    {
+        "id": 18,
+        "username": "user18",
+        "message": "Stay safe."
+    },
+    {
+        "id": 19,
+        "username": "user19",
+        "message": "See you soon."
+    },
+    {
+        "id": 20,
+        "username": "user20",
+        "message": "Have a great day!"
+    }
+]
